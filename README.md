@@ -2,7 +2,6 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-
 First, run the development server:
 
 ```bash
@@ -38,6 +37,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # saas-app
 # saas-app
 # saas-app
-
-
-
