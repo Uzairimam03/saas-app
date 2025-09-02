@@ -5,8 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="307492fd-05f2-4bd7-8ce6-0d2c49aeefee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/components/CompanionComponent.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/SearchInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/SubjectFilter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/vapi.sdk.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/companions/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/companions/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/companions/new/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/companions/new/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/companions/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/companions/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/my-journey/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/my-journey/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/subscription/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/subscription/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/CompanionCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CompanionCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/CompanionList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CompanionList.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/actions/companion.actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/actions/companion.actions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +67,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/home/uzairimam/WebstormProjects/saas_app/node_modules/typescript/lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -111,7 +127,20 @@
       <workItem from="1756113406813" duration="1055000" />
       <workItem from="1756140374430" duration="4432000" />
       <workItem from="1756192520724" duration="3671000" />
-      <workItem from="1756218513772" duration="724000" />
+      <workItem from="1756218513772" duration="3183000" />
+      <workItem from="1756312935557" duration="1842000" />
+      <workItem from="1756367076505" duration="4530000" />
+      <workItem from="1756466914558" duration="2160000" />
+      <workItem from="1756483604918" duration="1486000" />
+      <workItem from="1756537529378" duration="6824000" />
+      <workItem from="1756563664048" duration="4827000" />
+      <workItem from="1756621553087" duration="2097000" />
+      <workItem from="1756631750163" duration="645000" />
+      <workItem from="1756645916201" duration="3562000" />
+      <workItem from="1756731689248" duration="2312000" />
+      <workItem from="1756735715003" duration="4119000" />
+      <workItem from="1756741992678" duration="4667000" />
+      <workItem from="1756816783289" duration="6864000" />
     </task>
     <servers />
   </component>
